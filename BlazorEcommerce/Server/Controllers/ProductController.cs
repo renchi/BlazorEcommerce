@@ -29,7 +29,7 @@ namespace BlazorEcommerce.Server.Controllers
                 Id = 3,
                 Title = "Harry Potter and the Philosopher’s Stone",
                 Description = "Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!",
-                ImageUrl = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170803558l/72193.jpg",
+                ImageUrl = "https://m.media-amazon.com/images/I/51Ppi-8kISL.jpg",
                 Price = 6.99m
             }
         };
