@@ -11,25 +11,25 @@ namespace BlazorEcommerce.Server.Controllers
             new Product
             {
                 Id = 1,
-                Title = "The Hitchhiker's Guide to the Galaxy",
-                Description = "The Hitchhiker's Guide to the Galaxy[note 1] (sometimes referred to as HG2G,[1] HHGTTG,[2] H2G2,[3] or tHGttG) is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including novels, stage shows, comic books, a 1981 TV series, a 1984 text-based computer game, and 2005 feature film.",
-                ImageUrl = "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
+                Title = "Pokémon Adventures: Diamond and Pearl/Platinum, Vol. 1",
+                Description = "All your favorite Pokémon game characters jump out of the screen into the pages of this action-packed manga!\r\n\r\nPokémon Trainers Pearl and Diamond are starstruck! Their lifelong dream is to floor an audience with their Pokémon comedy act. So how do they wind up as bodyguards to a pampered little rich girl on a quest to reach the peak of Mt. Coronet...?!\r\n\r\nCome along and join the thrills and laughs as Pokémon Adventures continues!",
+                ImageUrl = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348801940i/9215459.jpg",
                 Price = 9.99m
             },
             new Product
             {
                 Id = 2,
-                Title = "Ready Player One",
-                Description = "Ready Player One is a 2011 science fiction novel, and the debut novel of American author Ernest Cline. The story, set in a dystopia in 2045, follows protagonist Wade Watts on his search for an Easter egg in a worldwide virtual reality game, the discovery of which would lead him to inherit the game creator's fortune. Cline sold the rights to publish the novel in June 2010, in a bidding war to the Crown Publishing Group (a division of Random House).[1] The book was published on August 16, 2011.[2] An audiobook was released the same day; it was narrated by Wil Wheaton, who was mentioned briefly in one of the chapters.[3][4]Ch. 20 In 2012, the book received an Alex Award from the Young Adult Library Services Association division of the American Library Association[5] and won the 2011 Prometheus Award.[6]",
-                ImageUrl = "https://upload.wikimedia.org/wikipedia/en/a/a4/Ready_Player_One_cover.jpg",
+                Title = "Magical Pokemon Journey, Volume 1: A Party with Pikachu",
+                Description = "In Journey I, which includes volumes 1-4 of the epic, Hazel has a crush on Almond, a Pokemon trainer. Her grandfather promises to make a love potion that will turn Almond's head -- but only if she will search the world for Pokemon for him first Hazel and friends first visit a Jigglypuff. It can sing, but can it cook? Next, it's a Pokemon holiday with loads of presents. Will Squirtle be a good host? What will Almond give Hazel? When they all visit the beach, Hazel vanishes in the water to help a Horsea. Who will tell Almond and Pikachu that she's safe?",
+                ImageUrl = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1180211620i/1011118.jpg",
                 Price = 7.99m
             },
             new Product
             {
                 Id = 3,
-                Title = "Nineteen Eighty-Four",
-                Description = "Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.[2][3] Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany.[2][3][4] More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.",
-                ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1984first.jpg/220px-1984first.jpg",
+                Title = "Harry Potter and the Philosopher’s Stone",
+                Description = "Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!",
+                ImageUrl = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170803558l/72193.jpg",
                 Price = 6.99m
             }
         };
