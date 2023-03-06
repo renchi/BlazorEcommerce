@@ -1,0 +1,4 @@
+First migration with Entity framework core:
+dotnet ef migrations add CreateInitial
+dotnet ef database update
+
